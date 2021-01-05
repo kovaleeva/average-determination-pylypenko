@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/average-determination-pylypenko/static/css/main.ffaf5049.chunk.css",
+    "main.js": "/average-determination-pylypenko/static/js/main.b0ea9b5e.chunk.js",
+    "main.js.map": "/average-determination-pylypenko/static/js/main.b0ea9b5e.chunk.js.map",
+    "runtime-main.js": "/average-determination-pylypenko/static/js/runtime-main.b53132b6.js",
+    "runtime-main.js.map": "/average-determination-pylypenko/static/js/runtime-main.b53132b6.js.map",
+    "static/js/2.a242824d.chunk.js": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js",
+    "static/js/2.a242824d.chunk.js.map": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js.map",
+    "static/js/3.bbc21ac0.chunk.js": "/average-determination-pylypenko/static/js/3.bbc21ac0.chunk.js",
+    "static/js/3.bbc21ac0.chunk.js.map": "/average-determination-pylypenko/static/js/3.bbc21ac0.chunk.js.map",
+    "index.html": "/average-determination-pylypenko/index.html",
+    "static/css/main.ffaf5049.chunk.css.map": "/average-determination-pylypenko/static/css/main.ffaf5049.chunk.css.map",
+    "static/js/2.a242824d.chunk.js.LICENSE.txt": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/average-determination-pylypenko/static/media/bg.1a59c436.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53132b6.js",
+    "static/js/2.a242824d.chunk.js",
+    "static/css/main.ffaf5049.chunk.css",
+    "static/js/main.b0ea9b5e.chunk.js"
+  ]
+}
