@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/average-determination-pylypenko/static/css/main.4c4935a7.chunk.css",
-    "main.js": "/average-determination-pylypenko/static/js/main.3f78ccc8.chunk.js",
-    "main.js.map": "/average-determination-pylypenko/static/js/main.3f78ccc8.chunk.js.map",
+    "main.js": "/average-determination-pylypenko/static/js/main.d295acea.chunk.js",
+    "main.js.map": "/average-determination-pylypenko/static/js/main.d295acea.chunk.js.map",
     "runtime-main.js": "/average-determination-pylypenko/static/js/runtime-main.aa29b1ce.js",
     "runtime-main.js.map": "/average-determination-pylypenko/static/js/runtime-main.aa29b1ce.js.map",
     "static/css/2.6d4e81f9.chunk.css": "/average-determination-pylypenko/static/css/2.6d4e81f9.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6d4e81f9.chunk.css",
     "static/js/2.f74968f8.chunk.js",
     "static/css/main.4c4935a7.chunk.css",
-    "static/js/main.3f78ccc8.chunk.js"
+    "static/js/main.d295acea.chunk.js"
   ]
 }
