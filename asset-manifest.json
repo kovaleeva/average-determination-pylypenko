@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/average-determination-pylypenko/static/css/main.ffaf5049.chunk.css",
-    "main.js": "/average-determination-pylypenko/static/js/main.7e128dcf.chunk.js",
-    "main.js.map": "/average-determination-pylypenko/static/js/main.7e128dcf.chunk.js.map",
-    "runtime-main.js": "/average-determination-pylypenko/static/js/runtime-main.b53132b6.js",
-    "runtime-main.js.map": "/average-determination-pylypenko/static/js/runtime-main.b53132b6.js.map",
-    "static/js/2.a242824d.chunk.js": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js",
-    "static/js/2.a242824d.chunk.js.map": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js.map",
-    "static/js/3.bbc21ac0.chunk.js": "/average-determination-pylypenko/static/js/3.bbc21ac0.chunk.js",
-    "static/js/3.bbc21ac0.chunk.js.map": "/average-determination-pylypenko/static/js/3.bbc21ac0.chunk.js.map",
+    "main.css": "/average-determination-pylypenko/static/css/main.4c4935a7.chunk.css",
+    "main.js": "/average-determination-pylypenko/static/js/main.3f78ccc8.chunk.js",
+    "main.js.map": "/average-determination-pylypenko/static/js/main.3f78ccc8.chunk.js.map",
+    "runtime-main.js": "/average-determination-pylypenko/static/js/runtime-main.aa29b1ce.js",
+    "runtime-main.js.map": "/average-determination-pylypenko/static/js/runtime-main.aa29b1ce.js.map",
+    "static/css/2.6d4e81f9.chunk.css": "/average-determination-pylypenko/static/css/2.6d4e81f9.chunk.css",
+    "static/js/2.f74968f8.chunk.js": "/average-determination-pylypenko/static/js/2.f74968f8.chunk.js",
+    "static/js/2.f74968f8.chunk.js.map": "/average-determination-pylypenko/static/js/2.f74968f8.chunk.js.map",
     "index.html": "/average-determination-pylypenko/index.html",
-    "static/css/main.ffaf5049.chunk.css.map": "/average-determination-pylypenko/static/css/main.ffaf5049.chunk.css.map",
-    "static/js/2.a242824d.chunk.js.LICENSE.txt": "/average-determination-pylypenko/static/js/2.a242824d.chunk.js.LICENSE.txt",
+    "static/css/2.6d4e81f9.chunk.css.map": "/average-determination-pylypenko/static/css/2.6d4e81f9.chunk.css.map",
+    "static/css/main.4c4935a7.chunk.css.map": "/average-determination-pylypenko/static/css/main.4c4935a7.chunk.css.map",
+    "static/js/2.f74968f8.chunk.js.LICENSE.txt": "/average-determination-pylypenko/static/js/2.f74968f8.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/average-determination-pylypenko/static/media/KaTeX_Typewriter-Regular.ea67dc3c.ttf",
     "static/media/App.css": "/average-determination-pylypenko/static/media/bg.1a59c436.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b53132b6.js",
-    "static/js/2.a242824d.chunk.js",
-    "static/css/main.ffaf5049.chunk.css",
-    "static/js/main.7e128dcf.chunk.js"
+    "static/js/runtime-main.aa29b1ce.js",
+    "static/css/2.6d4e81f9.chunk.css",
+    "static/js/2.f74968f8.chunk.js",
+    "static/css/main.4c4935a7.chunk.css",
+    "static/js/main.3f78ccc8.chunk.js"
   ]
 }
